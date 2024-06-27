@@ -1,0 +1,20 @@
+{
+  "name": "dataset-comandos",
+  "version": "1.0.0",
+  "description": "<O objetivo deste repositório é criar um Dataset de comandos na língua portuguesa.\r <br>\r O projeto visa criar o dataset e treinar um modelo a fim de dar suporte a scripts de Tensorflow Lite.\r <br>\r Por fim, espero converter o modelo e permitir seu uso em sistemas embarcados, como FreeRTOS, Arduino, Micropyton,\r <br>\r CircuitPython e outros...",
+  "main": "index.js",
+  "scripts": {
+    "start": "cd notebooks && jupyter lab",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulo101977/dataset-commands.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulo101977/dataset-commands/issues"
+  },
+  "homepage": "https://github.com/paulo101977/dataset-commands#readme"
+}
